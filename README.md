@@ -2,6 +2,8 @@
 
 <!-- TODO: Thay thế link trên bằng GIF demo dự án của bạn -->
 
+![Demo](https://github.com/Kyanh56709/cctv-analysis/blob/main/demo.gif)
+
 Dự án này sử dụng mô hình YOLOv8 để phân tích video từ camera giao thông, thực hiện các tác vụ theo thời gian thực bao gồm: theo dõi đối tượng, đếm phương tiện ra/vào một khu vực xác định, và cảnh báo khi có dấu hiệu tắc nghẽn giao thông.
 
 ## Tính năng chính
@@ -112,3 +114,4 @@ Khi chương trình kết thúc, một file báo cáo CSV sẽ được tạo ra
 | truck | 0 | 1 |
 | --- | --- | --- |
 | **Total Vehicles** | **42** | **35** |
+
